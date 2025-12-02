@@ -86,7 +86,7 @@ Borrower Profile: Analysis by Employee Length (10+ years dominance) and Home Own
 A granular grid view allowing operational staff to investigate specific loan IDs, checking individual metrics like Interest Rate, DTI, and specific Loan Status.
 
 ## Key DAX Measures
-Advanced DAX was used to create dynamic time-based calculations. Key measures included in DAX_measures_used.docx:
+Advanced DAX was used to create dynamic time-based calculations. Key measures included in `DAX_measures_used.md`:
 
 MTD (Month-to-Date): CALCULATE(TOTALMTD([Total Funded Amount], 'Date'[Date]))
 
