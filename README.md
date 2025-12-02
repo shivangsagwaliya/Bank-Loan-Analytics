@@ -36,7 +36,7 @@ The bank lacked a centralized view of their lending data, making it difficult to
 ---
 
 ##  SQL Data Analysis (Backend)
-Before building the dashboard, rigorous testing was performed using SQL to ensure data accuracy. Key SQL features demonstrated in `Advanced Report.sql` include:
+Before building the dashboard, rigorous testing was performed using SQL to ensure data accuracy. Key SQL features demonstrated in `sql_advanced_report.sql` include:
 
 * **Data Aggregation:** Calculating total applications, funded amounts, and average interest rates.
 * **Time-Series Analysis:** Using **CTEs** and **Window Functions (`LAG`)** to calculate **Month-over-Month (MoM)** growth percentages for all key metrics.
