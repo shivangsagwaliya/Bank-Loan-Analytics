@@ -4,12 +4,12 @@
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-blue?style=for-the-badge)
 
-## 📊 Project Overview
+## 📊Project Overview
 This project involves the development of a comprehensive **Bank Loan Report** to monitor lending activities and assess performance. The goal was to provide stakeholders with actionable insights into loan applications, funded amounts, and borrower repayment behaviors.
 
 The solution utilizes **SQL** for backend data verification and complex calculation testing, and **Power BI** for the frontend interactive dashboard.
 
-### 🖼️ Dashboard Previews
+### Dashboard Previews
 
 | **Summary View** | **Overview View** |
 |:---:|:---:|
@@ -35,7 +35,7 @@ The bank lacked a centralized view of their lending data, making it difficult to
 
 ---
 
-## 🔍 SQL Data Analysis (Backend)
+##  SQL Data Analysis (Backend)
 Before building the dashboard, rigorous testing was performed using SQL to ensure data accuracy. Key SQL features demonstrated in `Advanced Report.sql` include:
 
 * **Data Aggregation:** Calculating total applications, funded amounts, and average interest rates.
