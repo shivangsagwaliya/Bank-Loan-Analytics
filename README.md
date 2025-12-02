@@ -13,7 +13,7 @@ The solution utilizes **SQL** for backend data verification and complex calculat
 
 | **Summary View** | **Overview View** |
 |:---:|:---:|
-| ![Summary Dashboard](Summary.PNG) | ![Overview Dashboard](Overview.PNG) |
+| ![Summary Dashboard](dashboard_images/Summary.PNG) | ![Overview Dashboard](dashboard_images/Overview.PNG) |
 
 ---
 
