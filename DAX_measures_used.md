@@ -225,9 +225,7 @@ MoM DTI = DIVIDE(([MTD DTI] - [PMTD DTI]), [PMTD DTI])
 
 ## 4. Data Modeling & Parameters
 
-**Dynamic Measure Selector** — use for dynamic visuals where a user can switch between metrics.
-
-> Note: The example below is a parameter-style structure (pseudo-code). In Power BI you might implement this using a disconnected table + SWITCH/SELECTEDVALUE pattern or using a slicer-driven measure selection technique.
+**Dynamic Measure Selector** - for dynamic visuals where a user can switch between metrics.
 
 ```dax
 Select Measure = {
@@ -251,15 +249,5 @@ CALENDAR(
 )
 ```
 
-> Tip: After creating the `Date Table`, add calculated columns such as Year, Month, MonthName, Quarter, and a `IsCurrentMonth` boolean to simplify visuals and slicers.
 
 ---
-
-### Change log / notes
-
-* Organized measures into clear sections for easier copy-paste into Power BI.
-* Kept original DAX expressions intact; minor formatting applied for readability.
-
----
-
-If you'd like, I can: export this to a file (Markdown or .md), convert it to a PDF, or produce a Power BI-ready snippet (e.g., disconnected table + SELECTEDMEASURE pattern).
