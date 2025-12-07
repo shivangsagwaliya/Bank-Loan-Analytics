@@ -6,11 +6,12 @@ A compact, well-structured Markdown reference of all Data Analysis Expressions (
 
 ## Table of contents
 
-1. [Base Key Performance Indicators (KPIs)](#base-key-performance-indicators-kpis)
-2. [Good vs. Bad Loan Analysis](#good-vs-bad-loan-analysis)
-3. [Time Intelligence](#time-intelligence)
-4. [Data Modeling & Parameters](#data-modeling--parameters)
-5. [Date Table (Calculated Table)](#date-table-calculated-table)
+1. [Base Key Performance Indicators (KPIs)](#1-base-key-performance-indicators-kpis)
+2. [Good vs. Bad Loan Analysis](#2-good-vs-bad-loan-analysis)
+3. [Time Intelligence](#3-time-intelligence)
+4. [Data Modeling & Parameters](#4-data-modeling--parameters)
+5. [Date Table (Calculated Table)](#5-date-table-calculated-table)
+
 
 ---
 
